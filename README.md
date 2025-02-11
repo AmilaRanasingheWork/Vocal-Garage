@@ -1,0 +1,1 @@
+Vocal Garage is an imaginary company based in UK. Vocal Garage is a friendly platform for up-and-coming artists and bands to get more visibility and presence in the rock genre. This repository includes website with shopping functionality and an about page. 
